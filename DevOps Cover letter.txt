@@ -1,0 +1,39 @@
+Hello Sir,
+
+I am pleased to present myself as an IT professional for a suitable position in your organization. I consider that my experience around 7+ years in delivering solutions using DevOps platform. 
+
+In my last project, I was deputed at Intel Corporation, Malaysia and permanent employee of DSS Software Solution, Malaysia. 
+
+Total Years of Experience: 7.6 years
+
+Relevant Experience: 
+
+Having 3+ years of experience on DevOps Engineering practices involving the life cycle of software development such as Continuous Integration, Continuous Delivery, Configuration Management, source code management, and automation development.
+Having 7+ years of experience on automation of infrastructure and applications using Perl, Python, Shell script and DB Query.
+Having 3+ years of experience in enabling CI/CD using Jenkins.
+Having 3+ years of experience in configuration and set up the configuration management tools such as Chef and Ansible.
+Having 2+ years of experience on the Docker containerization and Docker Swarm cluster environment.
+Having 2+ years of experience in the source code management using GIT or SVN.
+Having 3+ years of experience in the Issue tracking tool such as Jira and ServiceNow.
+Having 6 months experience on the Terraform for provisioning infrastructure.
+Having knowledge of Amazon AWS services.
+Having knowledge of the Kubernetes container orchestration.
+
+Last Company: DSS Software Solution, Malaysia.
+Last working day: 31-January-2019. Hence I can join immediately.
+
+Last CTC: 10000 Ringgit (Monthly)
+
+Expected CTC: 16 L/A (negotiable)
+
+Notice Period: Immediate
+
+My resume is enclosed for your consideration. 
+
+Should you have any questions or wish to schedule an interview, please call me on this number +919309974278.
+
+I look forward to hearing from you soon. I appreciate your time and consideration.
+
+
+Sincerely,
+Satya Karan
